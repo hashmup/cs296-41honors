@@ -1,0 +1,25 @@
+March 13 - March 26:
+- Create a prototype of our game
+- Port the prototype to Android
+- Implement functionality for 1 player
+  * Creating map
+  * Graphics
+  * Movement
+  * Shooting
+
+March 27 - April 9:
+- Connect the game over 2 devices through bluetooth
+- Implement functionality for 2 players
+  * Health and Damage
+  * Winning/Losing
+
+April 10 - April 23
+- Find ways to minimize lag for the game
+- Implement functionality for large number of players
+  * Kill rewards
+  * Upgrades
+
+April 24 - May 7:
+- Explore ways to use P2P as an alternative
+- Improve the overall feel of the game
+- Introduce new and fun features if we have enough time
