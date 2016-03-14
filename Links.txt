@@ -1,0 +1,13 @@
+
+Tutorials for Android Games:
+https://www.javacodegeeks.com/tutorials/android-tutorials/android-game-tutorials/
+http://www.kilobolt.com/game-development-tutorial.html
+http://www.suntimebox.com/android-game-programming-tutorials/
+Documentation of Java's UDP sockets
+http://docs.oracle.com/javase/tutorial/networking/datagrams/index.html
+Information on Android's bluetooth API:
+http://developer.android.com/guide/topics/connectivity/bluetooth.html
+Tutorials for Multiplayer Network Programming:
+http://gafferongames.com/networking-for-game-programmers/
+http://trac.bookofhook.com/bookofhook/trac.cgi/wiki/IntroductionToMultiplayerGameProgramming
+http://gamedevelopment.tutsplus.com/tutorials/building-a-peer-to-peer-multiplayer-networked-game--gamedev-10074
