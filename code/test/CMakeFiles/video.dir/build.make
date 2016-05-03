@@ -35,10 +35,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/hashmup/cs296-41honors/code/test
+CMAKE_SOURCE_DIR = /home/valentino/Documents/Workspace/cs296-41honors/code/test
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/hashmup/cs296-41honors/code/test
+CMAKE_BINARY_DIR = /home/valentino/Documents/Workspace/cs296-41honors/code/test
 
 # Include any dependencies generated for this target.
 include CMakeFiles/video.dir/depend.make
@@ -51,17 +51,17 @@ include CMakeFiles/video.dir/flags.make
 
 CMakeFiles/video.dir/video.cpp.o: CMakeFiles/video.dir/flags.make
 CMakeFiles/video.dir/video.cpp.o: video.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/hashmup/cs296-41honors/code/test/CMakeFiles $(CMAKE_PROGRESS_1)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/valentino/Documents/Workspace/cs296-41honors/code/test/CMakeFiles $(CMAKE_PROGRESS_1)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/video.dir/video.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/video.dir/video.cpp.o -c /home/hashmup/cs296-41honors/code/test/video.cpp
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/video.dir/video.cpp.o -c /home/valentino/Documents/Workspace/cs296-41honors/code/test/video.cpp
 
 CMakeFiles/video.dir/video.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/video.dir/video.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/hashmup/cs296-41honors/code/test/video.cpp > CMakeFiles/video.dir/video.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/valentino/Documents/Workspace/cs296-41honors/code/test/video.cpp > CMakeFiles/video.dir/video.cpp.i
 
 CMakeFiles/video.dir/video.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/video.dir/video.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/hashmup/cs296-41honors/code/test/video.cpp -o CMakeFiles/video.dir/video.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/valentino/Documents/Workspace/cs296-41honors/code/test/video.cpp -o CMakeFiles/video.dir/video.cpp.s
 
 CMakeFiles/video.dir/video.cpp.o.requires:
 .PHONY : CMakeFiles/video.dir/video.cpp.o.requires
@@ -122,6 +122,6 @@ CMakeFiles/video.dir/clean:
 .PHONY : CMakeFiles/video.dir/clean
 
 CMakeFiles/video.dir/depend:
-	cd /home/hashmup/cs296-41honors/code/test && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/hashmup/cs296-41honors/code/test /home/hashmup/cs296-41honors/code/test /home/hashmup/cs296-41honors/code/test /home/hashmup/cs296-41honors/code/test /home/hashmup/cs296-41honors/code/test/CMakeFiles/video.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/valentino/Documents/Workspace/cs296-41honors/code/test && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/valentino/Documents/Workspace/cs296-41honors/code/test /home/valentino/Documents/Workspace/cs296-41honors/code/test /home/valentino/Documents/Workspace/cs296-41honors/code/test /home/valentino/Documents/Workspace/cs296-41honors/code/test /home/valentino/Documents/Workspace/cs296-41honors/code/test/CMakeFiles/video.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/video.dir/depend
 

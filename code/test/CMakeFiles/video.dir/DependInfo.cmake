@@ -4,7 +4,7 @@ SET(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 SET(CMAKE_DEPENDS_CHECK_CXX
-  "/home/hashmup/cs296-41honors/code/test/video.cpp" "/home/hashmup/cs296-41honors/code/test/CMakeFiles/video.dir/video.cpp.o"
+  "/home/valentino/Documents/Workspace/cs296-41honors/code/test/video.cpp" "/home/valentino/Documents/Workspace/cs296-41honors/code/test/CMakeFiles/video.dir/video.cpp.o"
   )
 SET(CMAKE_CXX_COMPILER_ID "GNU")
 

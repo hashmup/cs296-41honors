@@ -213,7 +213,7 @@ int main(int argc, char *argv[])
 			pthread_join(thread1, &rres);
 			pthread_join(thread2, &lres);
 			//audio((hand*)rres, (hand*)lres);
-			imshow("Video", hsv_skin_img);
+			//imshow("Video", hsv_skin_img);
 		    	cout << float(clock() - begin) / CLOCKS_PER_SEC << endl;
 			if(waitKey(30) >=0)
 			{
