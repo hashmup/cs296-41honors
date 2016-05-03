@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hashmup/cs296-41honors/code/video/src/video.cpp
+video.h
+/home/hashmup/cs296-41honors/code/video/src/video.h
+
+/home/hashmup/cs296-41honors/code/video/src/video.h
+opencv2/objdetect.hpp
+/home/hashmup/cs296-41honors/code/video/src/opencv2/objdetect.hpp
+opencv2/videoio.hpp
+/home/hashmup/cs296-41honors/code/video/src/opencv2/videoio.hpp
+opencv2/highgui.hpp
+/home/hashmup/cs296-41honors/code/video/src/opencv2/highgui.hpp
+opencv2/imgproc.hpp
+/home/hashmup/cs296-41honors/code/video/src/opencv2/imgproc.hpp
+opencv2/imgproc/imgproc.hpp
+/home/hashmup/cs296-41honors/code/video/src/opencv2/imgproc/imgproc.hpp
+opencv2/highgui/highgui.hpp
+/home/hashmup/cs296-41honors/code/video/src/opencv2/highgui/highgui.hpp
+portaudio.h
+/home/hashmup/cs296-41honors/code/video/src/portaudio.h
+time.h
+-
+iostream
+-
+stdio.h
+-
+math.h
+-
+string.h
+-
+
