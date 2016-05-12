@@ -1,2 +1,0 @@
-/home/hashmup/cs296-41honors/code/video/CMakeFiles/VIDEO.dir
-/home/hashmup/cs296-41honors/code/video/CMakeFiles/video.dir

@@ -1,2 +1,0 @@
-/usr/bin/ar cr libVIDEO.a  CMakeFiles/VIDEO.dir/src/video.cpp.o
-/usr/bin/ranlib libVIDEO.a
